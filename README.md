@@ -1,5 +1,5 @@
 # Loopback remote connector relation sandbox
-This is a sandbox project to showcase an issue with the loopback remote connector when using added relation.
+This is a basic sandbox project to showcase an issue with the loopback remote connector when using added relation.
 
 ## How to use
  1. Either run ``npm start`` in the root of the project or start all 3 loopback project individually with ``node .``

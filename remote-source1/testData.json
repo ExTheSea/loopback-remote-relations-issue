@@ -1,0 +1,17 @@
+{
+  "ids": {
+    "testmodel1": 9
+  },
+  "models": {
+    "testmodel1": {
+      "1": "{\"fktestmodel2\":1,\"id\":1}",
+      "2": "{\"fktestmodel2\":1,\"id\":2}",
+      "3": "{\"fktestmodel2\":1,\"id\":3}",
+      "4": "{\"fktestmodel2\":1,\"id\":4}",
+      "5": "{\"fktestmodel2\":2,\"id\":5}",
+      "6": "{\"fktestmodel2\":2,\"id\":6}",
+      "7": "{\"fktestmodel2\":2,\"id\":7}",
+      "8": "{\"fktestmodel2\":2,\"id\":8}"
+    }
+  }
+}

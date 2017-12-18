@@ -1,0 +1,22 @@
+{
+  "name": "loopback-remote-relations-issue",
+  "version": "1.0.0",
+  "description": "Sandbox for remote relation issue",
+  "main": "index.js",
+  "scripts": {
+    "start-source1": "node remote-source1/.",
+    "start-source2": "node remote-source2/.",
+    "start-parent": "node remoting-parent/.",
+    "start": "npm run start-source1 | npm run start-source2 | npm run start-parent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExTheSea/loopback-remote-relations-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExTheSea/loopback-remote-relations-issue/issues"
+  },
+  "homepage": "https://github.com/ExTheSea/loopback-remote-relations-issue#readme"
+}

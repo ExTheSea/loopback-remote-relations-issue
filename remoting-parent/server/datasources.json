@@ -1,0 +1,22 @@
+{
+  "source1": {
+    "url": "http://localhost:3001/api",
+    "name": "source1",
+    "connector": "remote"
+  },
+  "source2": {
+    "url": "http://localhost:3002/api",
+    "name": "source2",
+    "connector": "remote"
+  },
+  "rest-source1": {
+    "baseURL": "http://localhost:3001/api",
+    "name": "rest-source1",
+    "connector": "rest"
+  },
+  "rest-source2": {
+    "baseURL": "http://localhost:3002/api",
+    "name": "rest-source2",
+    "connector": "rest"
+  }
+}
